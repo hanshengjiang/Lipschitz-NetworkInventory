@@ -8,6 +8,14 @@
 **Paper:** [OpenReview](https://openreview.net/forum?id=e4ATBG2Oh5)
 
 ---
+## Contact
+
+For questions or feedback, please contact:
+- Hansheng Jiang: [hanshengjiang@rotman.utoronto.ca](mailto:hansheng.jiang@rotman.utoronto.ca)
+
+Or open an issue on the [GitHub repository](https://github.com/hanshengjiang/Lipschitz-NetworkInventory).
+
+---
 
 ## Overview
 
@@ -195,14 +203,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Contact
-
-For questions or feedback, please contact:
-- Hansheng Jiang: [hanshengjiang@rotman.utoronto.ca](mailto:hansheng.jiang@rotman.utoronto.ca)
-
-Or open an issue on the [GitHub repository](https://github.com/hanshengjiang/Lipschitz-NetworkInventory).
-
----
 
 ## Acknowledgments
 
